@@ -12,7 +12,7 @@ const BLOG = {
 
   AUTHOR: 'iulo', // 作者
   BIO: 'father, son, husband', // 作者简介
-  LINK: 'https://tangly1024.com', // 网站地址
+  c: 'https://iulo.me', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'liulong0130@gmail.com', // 邮箱
